@@ -8,4 +8,6 @@ int main()
 	{
 		cout<<"yahoo";
 	}
+	cout<<"done with for loops";
+	cout<<"wait for while loop";
 }
