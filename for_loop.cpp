@@ -10,4 +10,5 @@ int main()
 	}
 	cout<<"done with for loops";
 	cout<<"wait for while loop";
+	cout<<"nothing";
 }
